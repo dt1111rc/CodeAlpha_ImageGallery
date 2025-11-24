@@ -46,7 +46,7 @@ Transitions added for a pleasant user experience.
 
 ## 📁 File Structure
 
-📂 Image-Gallery/
+📂 Task 1 - Image Gallery/
 
 │── index.html          # Main webpage
 
@@ -107,3 +107,4 @@ Final Year CSBS Student | IEM KOLKATA
 ## 🌐 Live Demo
 
 *(After enabling GitHub Pages, paste the link here)*
+
