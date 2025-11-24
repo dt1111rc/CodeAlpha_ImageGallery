@@ -96,6 +96,8 @@ https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screensho
 
 ### 🖼️ Screenshot 5: Additional Project Overview showcasing responsiveness 
 https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_5.png
+
+
 ---
 
 ## 📝 About the Internship
@@ -119,4 +121,5 @@ Final Year CSBS Student | IEM KOLKATA
 ## 🌐 Live Demo
 
 https://dt1111rc.github.io/CodeAlpha_ImageGallery/
+
 
