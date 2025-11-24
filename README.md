@@ -106,5 +106,4 @@ Final Year CSBS Student | IEM KOLKATA
 
 ## 🌐 Live Demo
 
-*(After enabling GitHub Pages, paste the link here)*
-
+https://dt1111rc.github.io/CodeAlpha_ImageGallery/
