@@ -1,0 +1,94 @@
+body {
+  background-color: rgba(87, 233, 233, 0.484);
+}
+.first {
+  text-align: center;
+  margin-top: 15px;
+}
+.first:hover {
+  color: rgb(163, 11, 102);
+  transition: color 0.4s ease-in-out;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+  gap: 15px;
+  padding: 20px;
+}
+
+.gallery img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 12px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+/* This is the lightbox overlay */
+.lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+/* Lightbox image */
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Close button */
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Fade animation */
+@keyframes fadeIn {
+  from {opacity: 0; transform: scale(0.95);}
+  to {opacity: 1; transform: scale(1);}
+}
+
+.nav-btn {
+  position: absolute;
+  top: 50%;
+  padding: 10px 16px;
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translateY(-50%);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#prevBtn {
+  left: 20px;
+}
+
+#nextBtn {
+  right: 20px;
+}
+
+.nav-btn:hover {
+  background: white;
+}
