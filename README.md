@@ -83,19 +83,19 @@ Transitions added for a pleasant user experience.
 ## 📷 Screenshots
 
 ### 🖼️ Screenshot 1: Main Gallery Layout
-https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_1.png
+![Screenshot 1](https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_1.png)
 
 ### 🖼️ Screenshot 2: Extended Gallery View
-https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_2.png
+![Screenshot 2](https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_2.png)
 
 ### 🖼️ Screenshot 3: Lightbox Popup View
-https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_3.png
+![Screenshot 3](https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_3.png)
 
 ### 🖼️ Screenshot 4: Project Preview with README
-https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_4.png
+![Screenshot 4](https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_4.png)
 
 ### 🖼️ Screenshot 5: Additional Project Overview showcasing responsiveness 
-https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_5.png
+![Screenshot 5](https://raw.githubusercontent.com/dt1111rc/CodeAlpha_ImageGallery/main/screenshots/img_5.png)
 
 
 ---
@@ -121,5 +121,6 @@ Final Year CSBS Student | IEM KOLKATA
 ## 🌐 Live Demo
 
 https://dt1111rc.github.io/CodeAlpha_ImageGallery/
+
 
 
